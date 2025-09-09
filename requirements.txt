@@ -1,3 +1,3 @@
 django>=4.2
-opensearch-py>=3.0.0
+opensearch-py @ git+https://github.com/opensearch-project/opensearch-py@392c32c6954df113daf406e8efdda2c176b533e9
 python-dateutil~=2.8.2
