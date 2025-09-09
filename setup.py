@@ -30,7 +30,7 @@ LONG_DESCRIPTION = (
     + codecs.open(os.path.join(DIRNAME, "docs/CHANGELOG.md"), encoding="utf-8").read()
 )
 REQUIREMENTS = [
-    "opensearch-py @ git+https://github.com/opensearch-project/opensearch-py@392c32c6954df113daf406e8efdda2c176b533e9",
+    "opensearch-py @ git+https://github.com/SygmaHQ/opensearch-py@6ec368698318dace72d7dfbbc8899d20b334cf70",
     "dateutils",
 ]
 EXTRA_REQUIREMENTS = {
